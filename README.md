@@ -27,3 +27,10 @@ https://www.codeur.com/blog/frameworks-css/
 ## Un exemple : Bootstrap
 
 ### les grands principes de fonctionnement de Bootstrap
+
+1) LIRE LA DOCUMENTATION
+https://getbootstrap.com/docs/5.2/getting-started/introduction/
+
+2) LE LAYOUT
+Bootstrap fonctionne sur le système de grille ou grid CSS avec un positionnement des éléments sur une grille de 12 colonnes.
+
